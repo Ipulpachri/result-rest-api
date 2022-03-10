@@ -1,2 +1,2 @@
 # API results
-Result from api sekha
+Result from apikey sekha
